@@ -16,6 +16,11 @@ Peer-to-peer (P2P) markets allow small suppliers with limited capital to enter t
 
 ## Working Papers
 ### Introducing a Micro-Founded Index of Consumption Welfare: A Big Data Approach
+
+#### Abstract:
+
+This  paper  introduces  a  micro-founded  index  of  consumption  welfare with household-level variations. It uses Albania's 2012 Living Standard Measurement Survey to estimate the index in two steps. In the first step, I apply machine learning to find a non-parametric relation between households' consumption, and a large set of living conditions and characteristics indicators. In the second stage, I estimate the distribution of households' marginal willingness to pay for each living conditions indicator, and estimate the index of welfare. I show that the index is highly correlated with households' consumption expenditures, but unlike consumption as a naive measure of welfare, it accounts for the existing heterogeneity among their living conditions and preferences. Finally, this paper studies the geographical, cross gender and age distributions of the welfare index and compares the estimations with the consumption expenditure.    
+
 ### Using Big Data to Estimate the Effect of Regulation in Peer-to-Peer Markets: the Case of Airbnb
 (with [Peter Christensen](https://www.uiuc-bdeep.org/christensenteaching))
 
