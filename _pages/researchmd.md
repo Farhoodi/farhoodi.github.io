@@ -8,7 +8,7 @@ author_profile: true
 
 ### Welfare Estimation in Peer-to-Peer Markets with Heterogeneous Agents: The Case of Airbnb
 * Advisor: [Prof. Dan Bernhardt](https://economics.illinois.edu/profile/danber)
-* [Download paper](https://farhoodi.github.io/files/Airbnb_Welfare_Estimation.pdf) here.
+* [Download paper](https://farhoodi.github.io/files/Airbnb_Welfare_Estimation.pdf)
 
 #### Abstract:
 
@@ -17,7 +17,7 @@ Peer-to-peer (P2P) markets allow small suppliers with limited capital to enter t
 ## Working Papers
 
 ### Introducing a Micro-Founded Index of Consumption Welfare: A Big Data Approach
-* [Download paper](https://farhoodi.github.io/files/Welfare_Index.pdf) here.
+* [Download paper](https://farhoodi.github.io/files/Welfare_Index.pdf)
 
 #### Abstract:
 
