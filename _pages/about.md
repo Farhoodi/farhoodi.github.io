@@ -13,4 +13,4 @@ redirect_from:
   
 I am an applied microeconomist interested in Industrial Organization, Urban Economics, and applications of Big-Data and machine learning in economics. I am working on welfare distribution in peer-to-peer markets for my job market paper. I am also teaching a course on applied machine learning in economics at University of Illinois.
 
-I am on the job market the 2019-2020 academic year and available for interviews at the 2020 AEA-ASSA Meetings in San Diego, CA.
+I am on the job market and will be available for interviews at the 2020 AEA-ASSA Meetings in San Diego, CA.
