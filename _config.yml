@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Abdollah Farhoodi"
   avatar           : "profile1.png"
-  bio              : "Economics PhD Candidate at University of Illinois at Urbana-Champaign"
-  location         : "Champaign, IL"
+  bio              : "Assistant Professor of Economics at University of Toronto"
+  location         : #"Champaign, IL"
   employer         : 
   googlescholar    : #"http://scholar.google.com/this-is-a-test"
   email            : "a.farhoodi@utoronto.ca"
