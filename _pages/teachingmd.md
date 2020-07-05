@@ -20,7 +20,7 @@ author_profile: true
 * **Intermediate Microeconomics**
 
 ## Sharif University of Technology
-### Teaching Assistant
+### Teaching Assistant (Graduate-Level)
 * **Econometrics I**
 * **Game Theory**
 * **Microeconomics II**
