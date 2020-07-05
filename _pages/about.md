@@ -11,6 +11,4 @@ redirect_from:
 <center><img src="http://farhoodi.github.io/images/profile1.png" width="400"></center>
   
   
-I am an applied microeconomist interested in Industrial Organization, Urban Economics, and applications of Big-Data and machine learning in economics. I am working on welfare distribution in peer-to-peer markets for my job market paper. I am also teaching a course on applied machine learning in economics at University of Illinois.
-
-I am on the Job Market and will be available for interviews at the 2020 AEA-ASSA Meetings in San Diego, CA.
+I am an Assistant Professor of Economics at University of Toronto. I am specialized in Industrial Organization, Urban Economics, and applications of Big-Data and machine learning in economics. 
