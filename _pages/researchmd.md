@@ -16,7 +16,7 @@ Peer-to-peer (P2P) markets allow small suppliers with limited capital to enter m
 
 ## Working Papers
 ### Introducing a Micro-Founded Index of Consumption Welfare: A Big-Data Approach
-### Does Airbnb Reduce Matching Frictions in theHousing Market?
+### Does Airbnb Reduce Matching Frictions in the Housing Market?
 (with [Nazanin Khazra](https://www.nazaninkhazra.com) and [Peter Christensen](https://www.uiuc-bdeep.org/christensenteaching))
 
 
