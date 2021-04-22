@@ -15,6 +15,6 @@ author_profile: true
 
 
 ## Research Experience
-* **International Monetary Fund: Fund Internship Program** (Summer, 2018)
-* **University of Illinois: Big-Data in Environmental Economics and Policy Research Group** ([BDEEP](https://www.uiuc-bdeep.org),2018-2020) 
+* **International Monetary Fund:** Fund Internship Program (Summer, 2018)
+* **University of Illinois: Big-Data in Environmental Economics and Policy Research Group** ([BDEEP](https://www.uiuc-bdeep.org), 2018-2020) 
 * **University of Illinois: Research Assistant** to Dan Bernhardt, Yufeng Wu, Jorge Lemus (2016-2019)
